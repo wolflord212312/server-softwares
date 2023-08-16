@@ -15,4 +15,11 @@ This list contains Minecraft Bedrock vanilla server softwares.
 - **Plugins:** -
 - **Addons:** ❌
 
+### [🗣️ AllayBE](https://github.com/AllayBE/AllayBE)
+- **Author:** vp817
+- **Fork:** -
+- **Description:** AllayBE is a MCBE server software
+- **Plugins:** UNKOWN
+- **Addons:** UNKOWN
+  
 # ❌ Inactive Development
